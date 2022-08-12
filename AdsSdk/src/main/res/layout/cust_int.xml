@@ -50,8 +50,7 @@
             android:id="@+id/native_ad_icon"
             android:layout_width="100dp"
             android:layout_height="100dp"
-            android:layout_centerHorizontal="true"
-            android:src="@mipmap/ic_launcher"/>
+            android:layout_centerHorizontal="true"/>
 
         <LinearLayout
             android:id="@+id/ll_title"

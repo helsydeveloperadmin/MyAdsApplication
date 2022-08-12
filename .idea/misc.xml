@@ -3,6 +3,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Div/Android Dependency/MyAdsApplication/AdsSdk/src/main/res/layout/cust_appopen.xml" value="0.17604166666666668" />
+        <entry key="..\:/Div/Android Dependency/MyAdsApplication/AdsSdk/src/main/res/layout/cust_int.xml" value="0.34923076923076923" />
         <entry key="..\:/Div/Android Dependency/MyAdsApplication/app/src/main/res/layout/activity_main.xml" value="0.34923076923076923" />
       </map>
     </option>
