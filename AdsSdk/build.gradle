@@ -1,7 +1,9 @@
-apply plugin: 'com.android.library'
+plugins {
+    id 'com.android.library'
+    id 'maven-publish'
+    id 'com.onesignal.androidsdk.onesignal-gradle-plugin'
+}
 apply from: "utils.gradle"
-apply plugin: 'com.onesignal.androidsdk.onesignal-gradle-plugin'
-apply plugin: 'maven-publish'
 
 android {
     compileSdkVersion 32
