@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#3700B3</color>
+
+    <color name="white">#ffffff</color>
+    <color name="ad_text_primary">#000000</color>
+    <color name="ad_text_secondary">#A8000000</color>
+
+    <color name="duskYellow">#a76e59</color>
+    <color name="lightGrey">#8c8c8c</color>
+    <color name="transparent">#00000000</color>
+    <item name="yellow_color" type="color">#FFEB3B</item>
+    <color name="gnt_green">#00FF00</color>
+    <color name="connection_text">#4378FF</color>
+    <color name="red">#FF0000</color>
+    <color name="color_btn">#1D5BFA</color>
+    <color name="color_gray">#6d6f7e</color>
+    <color name="btn_border">#4378FF</color>
+
+</resources>

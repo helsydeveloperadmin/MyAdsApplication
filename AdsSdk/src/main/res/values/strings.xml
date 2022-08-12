@@ -1,0 +1,18 @@
+<resources>
+
+    <string name="app_name">Guide</string>
+    <string name="retry">Retry Again</string>
+    <string name="connect_internet">Please Connect To Internet</string>
+    <string name="_0_mbps">0 mbps</string>
+    <string name="connected">Connected</string>
+    <string name="disconnected">Connect</string>
+    <string name="loading">Connecting</string>
+    <string name="default_region">DEFAULT REGION</string>
+    <string name="Servers">Servers</string>
+    <string name="select_country">Select Country</string>
+    <string name="connection_time">Connection Time</string>
+    <string name="_00_00_00">00:00:00</string>
+    <string name="todo">TODO</string>
+
+
+</resources>

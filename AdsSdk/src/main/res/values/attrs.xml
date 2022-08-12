@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="RoundedImage">
+        <attr name="riv_corner_radius" format="dimension" />
+        <attr name="riv_corner_radius_top_left" format="dimension" />
+        <attr name="riv_corner_radius_top_right" format="dimension" />
+        <attr name="riv_corner_radius_bottom_left" format="dimension" />
+        <attr name="riv_corner_radius_bottom_right" format="dimension" />
+        <attr name="riv_border_width" format="dimension" />
+        <attr name="riv_border_color" format="color" />
+        <attr name="riv_mutate_background" format="boolean" />
+        <attr name="riv_oval" format="boolean" />
+        <attr name="riv_rounded_radius" format="float" />
+        <attr name="android:scaleType" />
+
+    </declare-styleable>
+    <declare-styleable name="CircleImage">
+        <attr name="civ_border_width" format="dimension" />
+        <attr name="civ_border_color" format="color" />
+        <attr name="civ_shadow_color" format="color" />
+        <attr name="civ_border_overlay" format="boolean" />
+        <attr name="civ_add_shadow" format="boolean" />
+        <attr name="civ_shadow_radius" format="float" />
+        <attr name="civ_circle_background_color" format="color" />
+    </declare-styleable>
+    <declare-styleable name="TemplateView">
+        <attr name="gnt_template_type" format="reference"/>
+        <attr name="gnt_template_min_height" format="reference"/>
+    </declare-styleable>
+</resources>
