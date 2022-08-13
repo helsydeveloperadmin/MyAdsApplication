@@ -13,7 +13,7 @@ android {
         targetSdkVersion 32
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
-        consumerProguardFiles "consumer-rules.pro"
+//        consumerProguardFiles "consumer-rules.pro"
         buildConfigField 'String', 'AppsManager_BASE_URL', toJavaCodeString(AppsManager_BASE_URL)
     }
 
