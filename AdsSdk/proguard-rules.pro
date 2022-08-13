@@ -14,6 +14,9 @@
 -keepclassmembers class com.pesonal.adsdk.getDataListner {
    public *;
 }
+-keepclassmembers class com.pesonal.adsdk.myActivities.Const {
+   public *;
+}
 
 # Uncomment this to preserve the line number information for
 # debugging stack traces.
