@@ -3,8 +3,6 @@ package com.helsy.myadsapplication;
 import static com.pesonal.adsdk.AppManage.ADMOB_B;
 import static com.pesonal.adsdk.AppManage.FACEBOOK_B;
 
-import androidx.appcompat.app.AppCompatActivity;
-
 import android.os.Bundle;
 import android.util.Log;
 import android.view.ViewGroup;
@@ -69,8 +67,6 @@ public class MainActivity extends ADS_SplashActivity {
                 } catch (JSONException e) {
                     e.printStackTrace();
                 }
-
-
             }
         });
     }

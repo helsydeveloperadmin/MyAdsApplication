@@ -3266,8 +3266,6 @@ public class AppManage {
         } else {
             nextNativePlatform(nativeAdContainer);
         }
-
-
     }
 
     private void showFacebookNative(final ViewGroup nativeAdContainer) {
